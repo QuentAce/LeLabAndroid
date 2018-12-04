@@ -2679,10 +2679,25 @@ namespace LeLabAndroid.Droid
 			public const int ic_vol_type_tv_light = 2130837731;
 			
 			// aapt resource value: 0x7F010002
-			public const int lab_logo = 2130771970;
+			public const int lab_avion = 2130771970;
 			
 			// aapt resource value: 0x7F010003
-			public const int lab_separator = 2130771971;
+			public const int lab_icon_avion = 2130771971;
+			
+			// aapt resource value: 0x7F010004
+			public const int lab_icon_compteur = 2130771972;
+			
+			// aapt resource value: 0x7F010005
+			public const int lab_icon_voiture = 2130771973;
+			
+			// aapt resource value: 0x7F010006
+			public const int lab_logo = 2130771974;
+			
+			// aapt resource value: 0x7F010007
+			public const int lab_separator = 2130771975;
+			
+			// aapt resource value: 0x7F010008
+			public const int lab_voiture = 2130771976;
 			
 			// aapt resource value: 0x7F0200E4
 			public const int mr_button_connected_dark = 2130837732;

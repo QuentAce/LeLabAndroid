@@ -103,6 +103,14 @@ H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\De
 H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\android\assets\Xamarin.Forms.Core.pdb
 H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\android\assets\Xamarin.Forms.Xaml.pdb
 H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\LeLabAndroid.Android.csprojAssemblyReference.cache
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\Views\TabVoiture.xaml.g.cs
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\Views\TabAvion.xaml.g.cs
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\res\drawable\lab_avion.png
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\res\drawable\lab_voiture.png
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\Views\TabsPage.xaml.g.cs
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\res\drawable\lab_icon_avion.png
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\res\drawable\lab_icon_compteur.png
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\res\drawable\lab_icon_voiture.png
 H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\bin\Debug\LeLabAndroid.Android.dll
 H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\linksrc\LeLabAndroid.Android.dll.mdb
 H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\linksrc\FormsViewGroup.dll.mdb

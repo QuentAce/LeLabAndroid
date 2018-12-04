@@ -21,5 +21,10 @@ namespace LeLabAndroid.Views
 	    {
 	        this.Navigation.PushAsync(new CountPage());
 	    }
+
+	    private void TabsButtonCLicked(object sender, EventArgs e)
+	    {
+	        this.Navigation.PushAsync(new TabsPage());
+	    }
 	}
 }
