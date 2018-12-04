@@ -4,9 +4,22 @@
              x:Class="LeLabAndroid.Views.MenuPage"
              Title="Menu">
     <ContentPage.Content>
-        <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
-            <Label Text="Le Lab Android" FontSize="30" TextColor="White" HorizontalTextAlignment="Center" Margin="0,20,0,0" FontAttributes="Bold"/>
-            <Button Style="{StaticResource ButtonLabelStyle}" Text="Compter" WidthRequest="120" Clicked="CounterButtonCLicked" HorizontalOptions="Center"/>
+        <StackLayout Spacing="0" Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <StackLayout BackgroundColor="#518FAA" Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+                <Image Source="lab_logo.png" HeightRequest="100" Margin="0,35,0,0" Aspect="AspectFit" />
+                <Label Text="LE LAB ANDROID" FontSize="30" TextColor="White" HorizontalTextAlignment="Center" Margin="0,10,0,20" >
+                    <Label.FontFamily>
+                        <OnPlatform x:TypeArguments="x:String">
+                            <OnPlatform.iOS>HelveticaNeue-Thin</OnPlatform.iOS>
+                            <OnPlatform.Android>HelveticaNeue-Thin.ttf#HelveticaNeue-Thin</OnPlatform.Android>
+                        </OnPlatform>
+                    </Label.FontFamily>
+                </Label>
+            </StackLayout>
+            <Image Source="lab_separator.png" Aspect="AspectFill"/>
+            <StackLayout Margin="30,0,30,0" Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                <Button Margin="0,20,0,0" Style="{StaticResource ButtonLabelStyle}" Text="COMPTEUR" BackgroundColor="#C1AB24" Clicked="CounterButtonCLicked" HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

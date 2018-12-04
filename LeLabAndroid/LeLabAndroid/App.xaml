@@ -1,19 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Application xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:app="clr-namespace:Android.App;assembly=Mono.Android"
+             xmlns:droid="clr-namespace:LeLabAndroid.Droid"
              x:Class="LeLabAndroid.App">
     <Application.Resources>
         <ResourceDictionary>
             <Style TargetType="NavigationPage" ApplyToDerivedTypes="True">
-                <Setter Property="BackgroundColor" Value="#C2B4B5"></Setter>
-                <Setter Property="BarBackgroundColor" Value="#7A7777"></Setter>
+                <Setter Property="BackgroundColor" Value="White"></Setter>
+                <Setter Property="BarBackgroundColor" Value="#4E89A3"></Setter>
                 <Setter Property="BarTextColor" Value="#EDEDED"></Setter>
             </Style>
             <Style TargetType="ContentPage" ApplyToDerivedTypes="True">
-                <Setter Property="BackgroundColor" Value="#C2B4B5"></Setter>
+                <Setter Property="BackgroundColor" Value="White"></Setter>
             </Style>
             <Style x:Key="ButtonLabelStyle" TargetType="Button">
-                <Setter Property="BackgroundColor" Value="Gray"></Setter>
+                <Setter Property="BackgroundColor" Value="#518FAA"></Setter>
+                <Setter Property="TextColor" Value="White"></Setter>
             </Style>
         </ResourceDictionary>
     </Application.Resources>
