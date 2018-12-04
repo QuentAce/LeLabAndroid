@@ -20,6 +20,7 @@
             <StackLayout Margin="30,0,30,0" Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
                 <Button Margin="0,20,0,0" Style="{StaticResource ButtonLabelStyle}" Text="COMPTEUR" BackgroundColor="#C1AB24" Clicked="CounterButtonCLicked" HorizontalOptions="FillAndExpand"/>
                 <Button Margin="0,10,0,0" Style="{StaticResource ButtonLabelStyle}" Text="TABS" BackgroundColor="#A4881C" Clicked="TabsButtonCLicked" HorizontalOptions="FillAndExpand"/>
+                <Button Margin="0,10,0,0" Style="{StaticResource ButtonLabelStyle}" Text="LISTE" BackgroundColor="#C60E3C" Clicked="ListeButtonCLicked" HorizontalOptions="FillAndExpand"/>
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>

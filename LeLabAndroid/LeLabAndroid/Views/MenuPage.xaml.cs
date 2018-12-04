@@ -26,5 +26,11 @@ namespace LeLabAndroid.Views
 	    {
 	        this.Navigation.PushAsync(new TabsPage());
 	    }
-	}
+
+	    private void ListeButtonCLicked(object sender, EventArgs eventArgs)
+	    {
+	        this.Navigation.PushAsync(new ListPage());
+	    }
+
+    }
 }
