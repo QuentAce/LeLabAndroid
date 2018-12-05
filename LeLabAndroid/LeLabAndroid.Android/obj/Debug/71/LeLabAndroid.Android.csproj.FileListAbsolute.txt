@@ -226,6 +226,14 @@ H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\De
 H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\android\assets\System.Xml.pdb
 H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\android\assets\Xamarin.Forms.Core.pdb
 H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\android\assets\Xamarin.Forms.Xaml.pdb
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\res\drawable\icon.png
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\res\drawable\splash.9.png
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\res\drawable-hdpi\icon.png
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\res\drawable-hdpi\splash.9.png
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\res\drawable-xhdpi\icon.png
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\res\drawable-xhdpi\splash.9.png
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\res\drawable-xxhdpi\icon.png
+H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\res\drawable-xxhdpi\splash.9.png
 H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\bin\Debug\LeLabAndroid.Android.dll
 H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\linksrc\LeLabAndroid.Android.dll.mdb
 H:\ProjetsVS\Perso\Xamarin\LeLabAndroid\LeLabAndroid\LeLabAndroid.Android\obj\Debug\71\linksrc\FormsViewGroup.dll.mdb
