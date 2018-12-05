@@ -4,8 +4,17 @@
              x:Class="LeLabAndroid.Views.ListPage"
              Title="Liste">
     <ContentPage.Content>
-        <StackLayout>
-
-        </StackLayout>
+        <ListView x:Name="MaListeView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="Center" Margin="15,0">
+                            <Label Text="{Binding Nom}" HorizontalOptions="FillAndExpand" TextColor="Black"/>
+                            <Label Text="{Binding Prix}" FontAttributes="Bold" TextColor="Black"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </ContentPage.Content>
 </ContentPage>

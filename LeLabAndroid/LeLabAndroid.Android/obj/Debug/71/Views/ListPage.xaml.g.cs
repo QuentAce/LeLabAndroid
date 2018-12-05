@@ -13,13 +13,16 @@
 namespace LeLabAndroid.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("H:\\ProjetsVS\\Perso\\Xamarin\\LeLabAndroid\\LeLabAndroid\\LeLabAndroid\\Views\\ListPage." +
-        "xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Projets\\Perso\\LeLabAndroid\\LeLabAndroid\\LeLabAndroid\\Views\\ListPage.xaml")]
     public partial class ListPage : global::Xamarin.Forms.ContentPage {
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::Xamarin.Forms.ListView MaListeView;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ListPage));
+            MaListeView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ListView>(this, "MaListeView");
         }
     }
 }
