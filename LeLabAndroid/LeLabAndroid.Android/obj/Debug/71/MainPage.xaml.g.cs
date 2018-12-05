@@ -13,7 +13,7 @@
 namespace LeLabAndroid {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Projets\\Perso\\LeLabAndroid\\LeLabAndroid\\LeLabAndroid\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("H:\\ProjetsVS\\Perso\\Xamarin\\LeLabAndroid\\LeLabAndroid\\LeLabAndroid\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

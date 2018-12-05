@@ -13,7 +13,8 @@
 namespace LeLabAndroid.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Projets\\Perso\\LeLabAndroid\\LeLabAndroid\\LeLabAndroid\\Views\\CountPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("H:\\ProjetsVS\\Perso\\Xamarin\\LeLabAndroid\\LeLabAndroid\\LeLabAndroid\\Views\\CountPage" +
+        ".xaml")]
     public partial class CountPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

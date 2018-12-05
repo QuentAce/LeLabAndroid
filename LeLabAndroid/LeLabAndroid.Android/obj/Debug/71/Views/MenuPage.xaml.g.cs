@@ -13,7 +13,8 @@
 namespace LeLabAndroid.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Projets\\Perso\\LeLabAndroid\\LeLabAndroid\\LeLabAndroid\\Views\\MenuPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("H:\\ProjetsVS\\Perso\\Xamarin\\LeLabAndroid\\LeLabAndroid\\LeLabAndroid\\Views\\MenuPage." +
+        "xaml")]
     public partial class MenuPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
