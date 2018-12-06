@@ -4,7 +4,7 @@
              x:Class="LeLabAndroid.Views.ListPage"
              Title="Liste">
     <ContentPage.Content>
-        <ListView x:Name="MaListeView">
+        <ListView x:Name="MaListeView" RowHeight="40">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>

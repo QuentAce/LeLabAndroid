@@ -16,5 +16,10 @@ namespace LeLabAndroid.Models
         /// 
         /// </summary>
         public string Prix { get; set; }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        public string Description { get; set; }
     }
 }

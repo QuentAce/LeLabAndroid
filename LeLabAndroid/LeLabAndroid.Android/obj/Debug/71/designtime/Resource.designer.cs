@@ -2243,6 +2243,9 @@ namespace LeLabAndroid.Droid
 			// aapt resource value: 0x7F02005A
 			public const int design_snackbar_background = 2130837594;
 			
+			// aapt resource value: 0x7F010002
+			public const int icon = 2130771970;
+			
 			// aapt resource value: 0x7F020053
 			public const int ic_audiotrack_dark = 2130837587;
 			
@@ -2678,26 +2681,26 @@ namespace LeLabAndroid.Droid
 			// aapt resource value: 0x7F0200E3
 			public const int ic_vol_type_tv_light = 2130837731;
 			
-			// aapt resource value: 0x7F010002
-			public const int lab_avion = 2130771970;
-			
 			// aapt resource value: 0x7F010003
-			public const int lab_icon_avion = 2130771971;
+			public const int lab_avion = 2130771971;
 			
 			// aapt resource value: 0x7F010004
-			public const int lab_icon_compteur = 2130771972;
+			public const int lab_icon_avion = 2130771972;
 			
 			// aapt resource value: 0x7F010005
-			public const int lab_icon_voiture = 2130771973;
+			public const int lab_icon_compteur = 2130771973;
 			
 			// aapt resource value: 0x7F010006
-			public const int lab_logo = 2130771974;
+			public const int lab_icon_voiture = 2130771974;
 			
 			// aapt resource value: 0x7F010007
-			public const int lab_separator = 2130771975;
+			public const int lab_logo = 2130771975;
 			
 			// aapt resource value: 0x7F010008
-			public const int lab_voiture = 2130771976;
+			public const int lab_separator = 2130771976;
+			
+			// aapt resource value: 0x7F010009
+			public const int lab_voiture = 2130771977;
 			
 			// aapt resource value: 0x7F0200E4
 			public const int mr_button_connected_dark = 2130837732;
@@ -2797,6 +2800,9 @@ namespace LeLabAndroid.Droid
 			
 			// aapt resource value: 0x7F020065
 			public const int notify_panel_notification_icon_bg = 2130837605;
+			
+			// aapt resource value: 0x7F010010
+			public const int splash = 2130771984;
 			
 			static Drawable()
 			{
@@ -4460,6 +4466,9 @@ namespace LeLabAndroid.Droid
 			
 			// aapt resource value: 0x7F08003F
 			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131230783;
+			
+			// aapt resource value: 0x7F060005
+			public const int splashscreen = 2131099653;
 			
 			// aapt resource value: 0x7F0800D3
 			public const int TextAppearance_AppCompat = 2131230931;
